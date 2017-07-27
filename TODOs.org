@@ -1,0 +1,9 @@
+* 待办
+** TODO 首页上拉下拉刷新
+** TODO 首页 card 动画
+*** 动画层级
+*** transition 动画
+** TODO 图片懒加载
+*** mint 的 lazyload 指令页面缓存原因，第二次不更新页面
+** TODO 详情页设计？
+** TODO 搜索页？

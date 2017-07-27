@@ -1,0 +1,96 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "mint-spinner",
+        "scope": null,
+        "escapedName": "mint-spinner",
+        "name": "mint-spinner",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/hxhgta/project/hxh-project/cookbook"
+    ]
+  ],
+  "_cnpm_publish_time": 1466662067319,
+  "_from": "mint-spinner@latest",
+  "_id": "mint-spinner@0.2.2",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/mint-spinner",
+  "_nodeVersion": "5.5.0",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/mint-spinner-0.2.2.tgz_1466662063891_0.8618125207722187"
+  },
+  "_npmUser": {
+    "name": "yi.yang",
+    "email": "leopoldthecuber@gmail.com"
+  },
+  "_npmVersion": "3.5.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "mint-spinner",
+    "scope": null,
+    "escapedName": "mint-spinner",
+    "name": "mint-spinner",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "http://registry.cnpmjs.org/mint-spinner/download/mint-spinner-0.2.2.tgz",
+  "_shasum": "bc0ec12529304b462280e843d4d11f360f2d3736",
+  "_shrinkwrap": null,
+  "_spec": "mint-spinner",
+  "_where": "/Users/hxhgta/project/hxh-project/cookbook",
+  "author": {
+    "name": "qingwei-li",
+    "email": "cinwell.li@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/mint-ui/mint-spinner/issues"
+  },
+  "dependencies": {},
+  "description": "A spinner component for vue.js",
+  "devDependencies": {
+    "webpack-shell-plugin": "^0.4.2"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "bc0ec12529304b462280e843d4d11f360f2d3736",
+    "size": 3712,
+    "noattachment": false,
+    "tarball": "http://registry.cnpmjs.org/mint-spinner/download/mint-spinner-0.2.2.tgz"
+  },
+  "files": [
+    "lib"
+  ],
+  "homepage": "https://github.com/mint-ui/mint-spinner#readme",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "maintainers": [
+    {
+      "name": "qingwei.li",
+      "email": "cinwell.li@gmail.com"
+    },
+    {
+      "name": "yi.yang",
+      "email": "leopoldthecuber@gmail.com"
+    }
+  ],
+  "name": "mint-spinner",
+  "optionalDependencies": {},
+  "publish_time": 1466662067319,
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mint-ui/mint-spinner.git"
+  },
+  "scripts": {},
+  "version": "0.2.2"
+}
